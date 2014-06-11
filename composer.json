@@ -1,0 +1,13 @@
+{
+  "name": "egorkluch/airy-example",
+  "description": "Example of fork Airy framework (https://github.com/EgorKluch/airy)",
+  "license": "MIT",
+  "keywords": ["framework", "slim"],
+  "version": "0.0.1",
+  "homepage": "https://github.com/EgorKluch/php-framework",
+  "require": {
+    "egorkluch/mysql-query-builder": "dev-master",
+    "egorkluch/php-access-manager": "dev-master",
+    "egorkluch/airy": "0.0.3"
+  }
+}
